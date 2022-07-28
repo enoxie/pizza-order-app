@@ -25,7 +25,7 @@ const Navbar = () => {
           <li className={styles.listItem}>Menu</li>
           <Image
             className={styles.imgLogo}
-            src="/img/logo_enes.png"
+            src="/img/logo.png"
             alt=""
             width="200px"
             height="100px"
